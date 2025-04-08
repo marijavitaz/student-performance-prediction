@@ -1,1 +1,1 @@
-# Data-Science-project
+# student-performance-prediction
